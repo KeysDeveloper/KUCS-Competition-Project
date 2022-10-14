@@ -10,6 +10,11 @@ from kivymd.uix.screen import Screen
 
 Window.size = (350, 600)
 
+# IMPORTANT: We have decided not to upload this to the KU Coding Competition mostly because it was just me and my friend doing it and we didn't really read the rules 
+# well enough. We got started on this project wayyyyyyyyyyyyyyyyy too late so it was literally me coding and not getting enough sleep the entire time. I had to fail
+# a English quiz because we started too late *skull_emoji*. At least next year we can look back over this project and know that we made something better for it.
+
+
 KV = '''
 MDFloatLayout:
     md_bg_color: 1, 1, 1, 1
